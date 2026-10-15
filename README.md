@@ -11,7 +11,7 @@
   <a href="mailto:turkelmert96@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mertturkel" target="_blank">
+  <a href="https://instagram.com/mert.turkel234" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/mertturkel234" target="_blank">
@@ -29,19 +29,19 @@
 
 ```typescript
 const mert = {
-  role:        "Computer Engineering Student @ ISTUN",
+  role:        "Management Information Systems Student @ Istanbul University (1st Year)",
   leadership:  [
-    "President @ IEEE ISTUN KOK (2025-Present)",
-    "Co-Founder & Vice Chair @ IEEE ISTUN CyberSec (2024-2025)",
-    "Vice President @ Teknofest Club - ISTUN",
-    "Brand Ambassador @ Technopark Istanbul",
+    "President @ IEEE ISTUN KOK (2026-Present)",
+    "Co-Founder & Vice Chair @ IEEE ISTUN CyberSec (2025-2026)",
+    "Vice President @ Teknofest Club - ISTUN (2026-Present)",
+    "Brand Ambassador @ Technopark Istanbul (2026-Present)",
   ],
   focus:       ["Cybersecurity", "AI-Integrated SaaS", "Systems Programming", "Logistics Tech"],
   certifications: ["CAP V2 (Merit)", "APIsec Certified Practitioner"],
   currentlyBuilding: [
     "SentraEDR  - Rust-based Endpoint Detection & Response system",
     "LOOP       - AI Logistics platform (TUBITAK BIGG - Technopark Istanbul)",
-    "RandovuAI  - WhatsApp-native appointment SaaS",
+    "Cursor     - AI-powered code editor fork",
   ],
   achievements: [
     "LOOP -> TUBITAK BIGG company formation process",
@@ -60,11 +60,11 @@ const mert = {
 
 | Position | Organization | Period |
 |:---|:---|:---:|
-| **KOK President** | IEEE ISTUN | 2025 - Present |
-| **Co-Founder & Vice Chair** | IEEE ISTUN CyberSec | 2024 - 2025 |
-| **Vice President** | Teknofest Club - ISTUN | 2024 - Present |
-| **Brand Ambassador** | Technopark Istanbul | 2024 - Present |
-| **TUBITAK BIGG Candidate** | LOOP Project | 2025 - Present |
+| **KOK President** | IEEE ISTUN | 2026 - Present |
+| **Co-Founder & Vice Chair** | IEEE ISTUN CyberSec | 2025 - 2026 |
+| **Vice President** | Teknofest Club - ISTUN | 2026 - Present |
+| **Brand Ambassador** | Technopark Istanbul | 2026 - Present |
+| **TUBITAK BIGG Candidate** | LOOP Project | 2026 - Present |
 
 </div>
 
@@ -99,13 +99,13 @@ const mert = {
 </td>
 <td width="33%" align="center">
 
-### :speech_balloon: RandovuAI
-**WhatsApp SaaS - AI**
+### :computer: Cursor
+**AI Code Editor - Fork**
 
-> Smart appointment management system running on WhatsApp. Optimizes user experience with natural language processing.
+> AI-powered code editor fork. Enhanced developer experience with intelligent code completion, refactoring and multi-model AI support.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -202,17 +202,15 @@ const mert = {
 
 <br/>
 
-:email: **turkelmert96@gmail.com**
-:earth_africa: **Istanbul, Turkey**
-:classical_building: **ISTUN Computer Engineering**
-
-<br/>
-
 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-t%C3%BCrkel-b1b8a8381)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turkelmert96@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertturkel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mert.turkel234)
+
+:email: **turkelmert96@gmail.com**
+:earth_africa: **Istanbul, Turkey**
+:classical_building: **Istanbul University - Management Information Systems (1st Year)**
 
 <br/>
 
