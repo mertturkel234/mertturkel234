@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mert%20TÃ¼rkel&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20AI%20Builder&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Mert%20Turkel&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20%7C%20AI%20Builder&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Mert+TÃ¼rkel+%F0%9F%91%8B;Cybersecurity+%7C+AI+%7C+Systems+Builder;IEEE+ISTÃœN+KÃ–K+President+%7C+Teknofest+VP;Building+tomorrow's+security+%26+AI+systems+today)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Mert+Turkel+%F0%9F%91%8B;Cybersecurity+%7C+AI+%7C+Systems+Builder;IEEE+ISTUN+KOK+President+%7C+Teknofest+VP;Building+tomorrow's+security+%26+AI+systems+today)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/mertturkel" target="_blank">
@@ -25,62 +25,62 @@
 
 ---
 
-## ğŸ§  `const mert = {`
+## :brain: `const mert = {`
 
 ```typescript
 const mert = {
-  role:        "Computer Engineering Student @ ISTÃœN",
+  role:        "Computer Engineering Student @ ISTUN",
   leadership:  [
-    "President @ IEEE ISTÃœN KÃ–K (2025â€“Present)",
-    "Co-Founder & Vice Chair @ IEEE ISTÃœN CyberSec (2024â€“2025)",
-    "Vice President @ Teknofest Club â€“ ISTÃœN",
+    "President @ IEEE ISTUN KOK (2025-Present)",
+    "Co-Founder & Vice Chair @ IEEE ISTUN CyberSec (2024-2025)",
+    "Vice President @ Teknofest Club - ISTUN",
     "Brand Ambassador @ Technopark Istanbul",
   ],
   focus:       ["Cybersecurity", "AI-Integrated SaaS", "Systems Programming", "Logistics Tech"],
   certifications: ["CAP V2 (Merit)", "APIsec Certified Practitioner"],
   currentlyBuilding: [
-    "SentraEDR  â€” Rust-based Endpoint Detection & Response system",
-    "LOOP       â€” AI Logistics platform (TÃœBÄ°TAK BÄ°GG Â· Technopark Istanbul)",
-    "RandovuAI  â€” WhatsApp-native appointment SaaS",
+    "SentraEDR  - Rust-based Endpoint Detection & Response system",
+    "LOOP       - AI Logistics platform (TUBITAK BIGG - Technopark Istanbul)",
+    "RandovuAI  - WhatsApp-native appointment SaaS",
   ],
   achievements: [
-    "LOOP â†’ TÃœBÄ°TAK BÄ°GG ÅŸirketleÅŸme sÃ¼reci",
-    "Technopark Istanbul Marka ElÃ§isi",
-    "Teknofest KulÃ¼bÃ¼ BaÅŸkan YardÄ±mcÄ±sÄ±",
+    "LOOP -> TUBITAK BIGG sirketlesme sureci",
+    "Technopark Istanbul Marka Elcisi",
+    "Teknofest Kulubu Baskan Yardimcisi",
   ],
-  languages:   ["Turkish (Native)", "English (B1â€“B2)"],
+  languages:   ["Turkish (Native)", "English (B1-B2)"],
 };
 ```
 
 ---
 
-## ğŸ† Liderlik & BaÅŸarÄ±lar
+## :trophy: Leadership & Achievements
 
 <div align="center">
 
-| ğŸ–ï¸ Pozisyon | ğŸ›ï¸ Kurum | ğŸ“… DÃ¶nem |
+| Position | Organization | Period |
 |:---|:---|:---:|
-| **KÃ–K BaÅŸkanÄ±** | IEEE ISTÃœN | 2025 â€“ Devam |
-| **Kurucu BaÅŸkan YardÄ±mcÄ±sÄ±** | IEEE ISTÃœN CyberSec | 2024 â€“ 2025 |
-| **BaÅŸkan YardÄ±mcÄ±sÄ±** | Teknofest KulÃ¼bÃ¼ â€“ ISTÃœN | 2024 â€“ Devam |
-| **Marka ElÃ§isi** | Technopark Istanbul | 2024 â€“ Devam |
-| **TÃœBÄ°TAK BÄ°GG AdayÄ±** | LOOP Projesi | 2025 â€“ Devam |
+| **KOK President** | IEEE ISTUN | 2025 - Present |
+| **Co-Founder & Vice Chair** | IEEE ISTUN CyberSec | 2024 - 2025 |
+| **Vice President** | Teknofest Club - ISTUN | 2024 - Present |
+| **Brand Ambassador** | Technopark Istanbul | 2024 - Present |
+| **TUBITAK BIGG Candidate** | LOOP Project | 2025 - Present |
 
 </div>
 
 ---
 
-## ğŸš€ Aktif Projeler
+## :rocket: Active Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="33%" align="center">
 
-### ğŸ” SentraEDR
-**Rust Â· Endpoint Security**
+### :lock: SentraEDR
+**Rust - Endpoint Security**
 
-> Next-gen Endpoint Detection & Response sistemi. Kernel-level tehdit tespiti, gerÃ§ek zamanlÄ± log analizi ve MITRE ATT&CK entegrasyonu.
+> Next-gen Endpoint Detection & Response system. Kernel-level threat detection, real-time log analysis and MITRE ATT&CK integration.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -88,10 +88,10 @@ const mert = {
 </td>
 <td width="33%" align="center">
 
-### ğŸšš LOOP
-**AI Â· Logistics Â· TÃœBÄ°TAK BÄ°GG**
+### :truck: LOOP
+**AI - Logistics - TUBITAK BIGG**
 
-> Yapay zeka destekli lojistik optimizasyon platformu. TÃœBÄ°TAK BÄ°GG ve Technopark Istanbul iÅŸ birliÄŸiyle ÅŸirketleÅŸme sÃ¼recinde.
+> AI-powered logistics optimization platform. In company formation process with TUBITAK BIGG and Technopark Istanbul collaboration.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -99,10 +99,10 @@ const mert = {
 </td>
 <td width="33%" align="center">
 
-### ğŸ’¬ RandovuAI
-**WhatsApp SaaS Â· AI**
+### :speech_balloon: RandovuAI
+**WhatsApp SaaS - AI**
 
-> WhatsApp Ã¼zerinden Ã§alÄ±ÅŸan akÄ±llÄ± randevu yÃ¶netim sistemi. DoÄŸal dil iÅŸleme ile kullanÄ±cÄ± deneyimini optimize eder.
+> Smart appointment management system running on WhatsApp. Optimizes user experience with natural language processing.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
@@ -114,11 +114,11 @@ const mert = {
 
 ---
 
-## ğŸ› ï¸ Tech Stack
+## :hammer_and_wrench: Tech Stack
 
 <div align="center">
 
-### ğŸ’» Programlama Dilleri
+### Languages
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -130,7 +130,7 @@ const mert = {
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### âš™ï¸ Framework & AraÃ§lar
+### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -139,7 +139,7 @@ const mert = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### ğŸ” Cybersecurity
+### Cybersecurity
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -149,7 +149,7 @@ const mert = {
 
 ---
 
-## ğŸ“Š GitHub Ä°statistikleri
+## :bar_chart: GitHub Stats
 
 <div align="center">
 
@@ -167,7 +167,7 @@ const mert = {
 
 ---
 
-## ğŸ Contribution Graph
+## :snake: Contribution Graph
 
 <div align="center">
 
@@ -181,40 +181,30 @@ const mert = {
 
 ---
 
-## ğŸ–ï¸ Sertifikalar
+## :medal_sports: Certifications
 
 <div align="center">
 
-| ğŸ“œ Sertifika | ğŸ›ï¸ Kurum | ğŸ”– Seviye |
+| Certificate | Organization | Level |
 |:---|:---|:---:|
-| **CAP V2** | â€” | â­ Merit |
-| **APIsec Certified Practitioner** | APIsec University | âœ… Active |
+| **CAP V2** | - | Merit |
+| **APIsec Certified Practitioner** | APIsec University | Active |
 
 </div>
 
 ---
 
-## ğŸµ Åu An Ne Dinliyorum?
+## :mailbox: Contact
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=mertturkel&count=1&width=400)](https://open.spotify.com/user/mertturkel)
-
-</div>
-
----
-
-## ğŸ“¬ Ä°letiÅŸim
-
-<div align="center">
-
-> *"Security is not a product, but a process."* â€” Bruce Schneier
+> *"Security is not a product, but a process."* - Bruce Schneier
 
 <br/>
 
-ğŸ“§ **turkelmert96@gmail.com**  
-ğŸŒ **Ä°stanbul, TÃ¼rkiye**  
-ğŸ›ï¸ **Ä°STÃœN Bilgisayar MÃ¼hendisliÄŸi**
+:email: **turkelmert96@gmail.com**
+:earth_africa: **Istanbul, Turkey**
+:classical_building: **ISTUN Computer Engineering**
 
 <br/>
 
