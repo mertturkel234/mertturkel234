@@ -50,3 +50,89 @@ const mert = {
   ],
   languages:   ["Turkish (Native)", "English (B1–B2)"],
 };
+🏆 Liderlik & Başarılar
+🎖️ Pozisyon	🏛️ Kurum	📅 Dönem
+KÖK Başkanı	IEEE ISTÜN	2025 – Devam
+Kurucu Başkan Yardımcısı	IEEE ISTÜN CyberSec	2024 – 2025
+Başkan Yardımcısı	Teknofest Kulübü – ISTÜN	2024 – Devam
+Marka Elçisi	Technopark Istanbul	2024 – Devam
+TÜBİTAK BİGG Adayı	LOOP Projesi	2025 – Devam
+🚀 Aktif Projeler
+🔐 SentraEDR
+
+Rust · Endpoint Security
+
+Next-gen Endpoint Detection & Response sistemi. Kernel-level tehdit tespiti, gerçek zamanlı log analizi ve MITRE ATT&CK entegrasyonu.
+
+Rust
+Linux
+
+	
+🚚 LOOP
+
+AI · Logistics · TÜBİTAK BİGG
+
+Yapay zeka destekli lojistik optimizasyon platformu. TÜBİTAK BİGG ve Technopark Istanbul iş birliğiyle şirketleşme sürecinde.
+
+Python
+Docker
+
+	
+💬 RandovuAI
+
+WhatsApp SaaS · AI
+
+WhatsApp üzerinden çalışan akıllı randevu yönetim sistemi. Doğal dil işleme ile kullanıcı deneyimini optimize eder.
+
+TypeScript
+WhatsApp
+
+🛠️ Tech Stack
+💻 Programlama Dilleri
+
+Rust
+Python
+TypeScript
+JavaScript
+Go
+C
+C++
+Java
+HTML
+CSS
+
+⚙️ Framework & Araçlar
+
+React
+Next.js
+Docker
+GitHub Actions
+Kubernetes
+Linux
+Kali Linux
+
+🔐 Cybersecurity
+
+Wireshark
+Burp Suite
+Metasploit
+MITRE ATT&CK
+
+📊 GitHub İstatistikleri
+ 
+🐍 Contribution Graph
+Preview unavailable
+🎖️ Sertifikalar
+📜 Sertifika	🏛️ Kurum	🔖 Seviye
+CAP V2	—	⭐ Merit
+APIsec Certified Practitioner	APIsec University	✅ Active
+📬 İletişim
+
+"Security is not a product, but a process." — Bruce Schneier
+
+
+
+
+📧 turkelmert96@gmail.com
+🌍 İstanbul, Türkiye
+🏛️ İSTÜN Bilgisayar Mühendisliği
