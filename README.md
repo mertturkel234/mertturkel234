@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Mert+Turkel+%F0%9F%91%8B;Cybersecurity+%7C+AI+%7C+Systems+Builder;IEEE+ISTUN+KOK+President+%7C+Teknofest+VP;Building+tomorrow's+security+%26+AI+systems+today)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://linkedin.com/in/mertturkel" target="_blank">
+  <a href="https://www.linkedin.com/in/mert-t%C3%BCrkel-b1b8a8381" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:turkelmert96@gmail.com">
@@ -44,9 +44,9 @@ const mert = {
     "RandovuAI  - WhatsApp-native appointment SaaS",
   ],
   achievements: [
-    "LOOP -> TUBITAK BIGG sirketlesme sureci",
-    "Technopark Istanbul Marka Elcisi",
-    "Teknofest Kulubu Baskan Yardimcisi",
+    "LOOP -> TUBITAK BIGG company formation process",
+    "Technopark Istanbul Brand Ambassador",
+    "Teknofest Club Vice President",
   ],
   languages:   ["Turkish (Native)", "English (B1-B2)"],
 };
@@ -205,6 +205,14 @@ const mert = {
 :email: **turkelmert96@gmail.com**
 :earth_africa: **Istanbul, Turkey**
 :classical_building: **ISTUN Computer Engineering**
+
+<br/>
+
+**Connect with me:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-t%C3%BCrkel-b1b8a8381)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:turkelmert96@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mertturkel)
 
 <br/>
 
